@@ -1,5 +1,5 @@
 #  HigherOrLower
-
+# 교재 5쪽
 import random
 
 SUIT_TUPLE = ('Spades', 'Hearts', 'Clubs', 'Diamonds')
