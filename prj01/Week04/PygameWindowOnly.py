@@ -17,7 +17,7 @@ while True:
             pygame.quit()  
             sys.exit()
     
-    window.fill(BLACK)
+    window.fill(BLOSSOM)
     pygame.display.update()
 
     clock.tick(FRAMES_PER_SECOND)  
