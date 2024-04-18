@@ -20,4 +20,4 @@ while True:
     window.fill(BLOSSOM)
     pygame.display.update()
 
-    clock.tick(FRAMES_PER_SECOND)  
+    clock.tick(FRAMES_PER_SECOND)
